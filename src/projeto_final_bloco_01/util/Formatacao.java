@@ -6,7 +6,7 @@ public class Formatacao {
 	
 	public static void cabecalhoPrincipal(){
 		System.out.println("୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧");
-		System.out.println("୨୧ Mercado de Renda ୨୧ Repositório de moda EGL ୨୧");
+		System.out.println("୨୧ Biblioteca de Renda ୨୧ Repositório de moda EGL ୨୧");
 		System.out.println("୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧~~~~୨୧");
 		System.out.println("");
 	}
