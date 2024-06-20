@@ -22,8 +22,9 @@ public class Formatacao {
 		System.out.println("୨୧ Menu ୨୧");
 		System.out.println("୨୧ 1 - Ver todos produtos ୨୧");
 		System.out.println("୨୧ 2 - Buscar um produto  ୨୧");
-		System.out.println("୨୧ 3 - Atualizar produto  ୨୧");
-		System.out.println("୨୧ 4 - Deletar produto    ୨୧");
+		System.out.println("୨୧ 3 - Criar produto      ୨୧");
+		System.out.println("୨୧ 4 - Atualizar produto  ୨୧");
+		System.out.println("୨୧ 5 - Deletar produto    ୨୧");
 		System.out.println("୨୧ 0 - Sair               ୨୧");
 	}
 }

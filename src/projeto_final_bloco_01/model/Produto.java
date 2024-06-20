@@ -68,7 +68,6 @@ public class Produto {
 		System.out.println("Tipo: " + nomeTipoProduto);
 		System.out.println("Item: " + nomeItem);
 		System.out.println("Cores disponíveis: " + cores);
-		Formatacao.separador();
 		
 	}
 	

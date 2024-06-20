@@ -17,7 +17,6 @@ public class Vestido extends Produto {
 		
 		String nomeTipoVestido = "", nomeTipoSaia = "";
 		
-		super.verProduto();
 		
 		switch (this.tipoVestido) {
 		case 1-> nomeTipoVestido = "Jumperskirt";
@@ -29,7 +28,7 @@ public class Vestido extends Produto {
 		case 2-> nomeTipoSaia = "Evasê";
 		}
 		
-		
+		super.verProduto();
 		System.out.println("Tipo de vestido: " + nomeTipoVestido);
 		System.out.println("Tipo de saia: " + nomeTipoSaia);
 	}
